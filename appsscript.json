@@ -11,7 +11,8 @@
   },
   "oauthScopes": [
     "https://www.googleapis.com/auth/script.external_request",
-    "https://www.googleapis.com/auth/youtube"
+    "https://www.googleapis.com/auth/youtube",
+    "https://www.googleapis.com/auth/youtube.upload"
   ],
   "webapp": {
     "access": "ANYONE_ANONYMOUS",
